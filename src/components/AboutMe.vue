@@ -2,7 +2,7 @@
   <section class="hero is-medium is-primary is-full-width">
     <div class="hero-body">
       <div id="page" class="container">
-        <h1>Hi, I'm Akshdeep. Nice to meet you!</h1>
+        <h1>Hi, I'm Wemali Nice to meet you!</h1>
         <p>
           I’m a self-taught programmer who loves solving problems
           and seeing things work. When I'm not coding, I'm either
