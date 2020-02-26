@@ -2,7 +2,7 @@
   <nav class="navbar is-spaced" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <router-link to="/" class="navbar-item">
-        <img id="navbar-img" src="@/assets/logo.png" width="28" height="28">
+        <img id="navbar-img" src="@/assets/logo-1.png" width="28" height="28">
       </router-link>
     </div>
     <div class="navbar-end">
