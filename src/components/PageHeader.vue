@@ -4,7 +4,7 @@
       <div id="ph" class="container">
         <h1>Software Developer</h1>
         <h2>I design and code things to make my life a smidge easier.</h2>
-        <img src="@/assets/portrait.png" width="225" height="365">
+        <img src="@/assets/wema.png" width="225" height="365">
       </div>
     </div>
   </section>
