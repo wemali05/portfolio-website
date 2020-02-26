@@ -9,7 +9,7 @@
       </div>
       <div class="buttons column is-one-third">
         <a
-          href="mailto:akshdeep.sharma1@gmail.com"
+          href="mailto:alfredwemali05@gmail.com"
           class="button is-medium is-rounded is-black is-outlined"
         >
           <span>Email now!</span>
@@ -23,25 +23,25 @@
       <h1 class="column is-full">- Linus Torvalds</h1>
     </div>
     <div class="row buttons are-medium is-centered">
-      <a href="https://github.com/AkshdeepSharma" 
+      <a href="https://github.com/wemali05" 
       target="_blank" 
       class="button" 
       id="sm-icons">
         <i class="fab fa-github"/>
       </a>
       <a
-        href="https://linkedin.com/in/akshdeep-sharma"
+        href="https://linkedin.com/in/alfred-wemali"
         target="_blank"
         class="button"
         id="sm-icons">
         <i class="fab fa-linkedin-in"/>
       </a>
-      <a href="mailto:akshdeep.sharma1@gmail.com" 
+      <a href="mailto:alfredwemali05@gmail.com" 
       class="button" 
       id="sm-icons">
         <i class="far fa-envelope"/>
       </a>
-      <a href="https://medium.com/@akshdeep.sharma1" 
+      <a href="https://medium.com/@alfredwemali05" 
       target="_blank" 
       class="button"
       id="sm-icons">
