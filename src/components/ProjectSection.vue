@@ -17,7 +17,7 @@
     </div>
     <div id="github-button" class="buttons is-centered">
       <a
-        href="https://github.com/AkshdeepSharma"
+        href="https://github.com//wemali05"
         target="_blank"
         class="button is-medium is-rounded is-primary is-outlined"
       >
@@ -43,48 +43,48 @@ export default {
       projects: [
         {
           id: 1,
-          title: "election-tracker",
-          description: "See the most recent tweets from Canadian political leaders",
-          language: "Python & Vue.js",
-          url: "https://github.com/AkshdeepSharma/ElectionTracker"
+          title: "Laravel-QA",
+          description: "A question and answer application based on how github works",
+          language: "laravel & Vue.js",
+          url: "https://github.com/wemali05/laravel-qa"
         },
         {
           id: 2,
           title: "portfolio-website",
           description: "My portfolio website that you're viewing right now",
           language: "Vue.js",
-          url: "https://github.com/AkshdeepSharma/portfolio-website"
+          url: "https://github.com/wemali05/portfolio-website"
         },
         {
           id: 3,
-          title: "todo-api",
+          title: "stock-trader",
           description:
-            "An API where users can use CRUD operations on todo notes",
-          language: "Node.js",
-          url: "https://github.com/AkshdeepSharma/node-mongo-todo-api"
+            "A Vue.js single page application on stock trading",
+          language: "Vue.js",
+          url: "https://github.com/wemali05/stock-trader"
         },
         {
           id: 4,
-          title: "mewsick-bot",
-          description: "Discord bot that plays music in voice channels",
-          language: "Python 3",
-          url: "https://github.com/AkshdeepSharma/mewsick-bot"
+          title: "vue-axios",
+          description: "Promise based HTTP request for javascript applications",
+          language: "Vue.js",
+          url: "https://github.com/wemali05/vue-axios"
         },
         {
           id: 5,
-          title: "doomsday-buddy",
+          title: "grid",
           description:
-            "Twitter bot that tweets the probability of WW3 based on Twitter sentiment analysis",
-          language: "Python 3",
-          url: "https://github.com/AkshdeepSharma/doomsday-buddy"
+            "Using css grid layout to make a beautiful website",
+          language: "Sass",
+          url: "https://github.com/wemali05/grid"
         },
         {
           id: 6,
-          title: "subreddit-manager",
+          title: "flexbox",
           description:
-            "Reddit bot that crossposts hot posts to a private subreddit",
-          language: "Python 3",
-          url: "https://github.com/AkshdeepSharma/subreddit-manager"
+            "Compounding on flexbox to make amazing layouts and website pages",
+          language: "Sass",
+          url: "https://github.com/wemali05/flexb-trill"
         }
       ]
     };
